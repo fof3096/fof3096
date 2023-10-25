@@ -12,7 +12,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,nodejs,firebase,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,react,vite,nextjs,redux,firebase,postgres)](https://skillicons.dev)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
