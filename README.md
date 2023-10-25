@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 🌱 &nbsp;Acabe la secundaria en una escuela tecnica que me dio las bases para comenzar en este mundo de la programacion.\
-💡 &nbsp;Me gusta explorar nuevas tecnologias que me permitan desarrollar mejores aplicaciones web.\
-✍️ &nbsp;Espero seguir mejorando mi manejo en tecnologias que ya conozco y a la vez poder aprender sobre las nuevas tecnologias que siempre tienen algo nuevo que ofrecer.\
+💡  &nbsp;Me gusta explorar nuevas tecnologias que me permitan desarrollar mejores aplicaciones web.\
+✍️ &nbsp;Espero seguir mejorando mi manejo en tecnologias que ya conozco y a la vez poder aprender sobre las nuevas tecnologias que siempre tienen algo nuevo que ofrecer.
 
 
 ### 🛠 &nbsp;Habilidades Tecnicas
