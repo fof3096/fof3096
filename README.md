@@ -13,5 +13,5 @@
 
 ### 📮 &nbsp;Contactame
 
-<a href="www.linkedin.com/in/federico-omar-farfan-32b314245"><img src="https://img.shields.io/badge/-Federico%20Omar%20Farfan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/federico-omar-farfan-32b314245"><img src="https://img.shields.io/badge/-Federico%20Omar%20Farfan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:c0rr1f1ll@gmail.com"><img src="https://img.shields.io/badge/-c0rr1f1ll@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
