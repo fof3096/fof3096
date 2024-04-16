@@ -1,9 +1,7 @@
 <!-- ## 👋 &nbsp;Hola! me llamo Federico Omar Farfan -->
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
-🌱 &nbsp;Acabe la secundaria en una escuela tecnica que me dio las bases para comenzar en este mundo de la programacion.\
-💡  &nbsp;Me gusta explorar nuevas tecnologias que me permitan desarrollar mejores aplicaciones web.\
-✍️ &nbsp;Espero seguir mejorando mi manejo en tecnologias que ya conozco y a la vez poder aprender sobre las nuevas tecnologias que siempre tienen algo nuevo que ofrecer.
+Soy un desarrollador Front-end nacido en Jujuy, Argentina en el año 2004. Comencé a formarme como desarrollador a inicios del 2023 a través de Henry, lugar en el cual pude conocer gente con la cual poder aprender y mejorar habilidades.
 
 
 ### 🛠 &nbsp;Habilidades Tecnicas
