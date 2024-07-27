@@ -1,7 +1,7 @@
 ### Sobre mi
 Mi nombre es Federico Omar Farfan, vivo en Jujuy, Argentina y soy un desarrollador web orientado al Frontend, puedo crear aplicaciones web para el comercio en linea, venta de productos y búsqueda de información utilizando tecnologías como React, Vite, JavaScript, TypeScript, HTML, CSS y ayudándome con herramientas como Figma, Git, GitHub y el IDE Visual Studio Code.
 
-Ademas, tengo experiencia participando en proyectos en donde eh debido comunicar mis avances y próximas tareas en reuniones diarias a traves Google Meet, Discord entre otras según las necesidades del equipo. En cuanto a herramientas para una organización eficiente, tengo experiencia utilizando Trello, Jira y GitHub Projects(es un apartado similar a Trello).
+Ademas, tengo experiencia participando en proyectos en donde eh debido comunicar mis avances y próximas tareas en reuniones diarias a traves Google Meet, Discord entre otras según las necesidades del equipo. En cuanto a herramientas para una organización eficiente, tengo experiencia utilizando Trello, Jira y GitHub Projects.
 
 
 ### Habilidades Tecnicas
@@ -11,3 +11,5 @@ Ademas, tengo experiencia participando en proyectos en donde eh debido comunicar
 ### Contactame
 <a href="https://www.linkedin.com/in/federico-omar-farfan-32b314245"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:federicoofarfan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://fof3096.github.io/Federico_Farfan/"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+
