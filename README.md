@@ -11,4 +11,3 @@ Ademas, tengo experiencia participando en proyectos en donde eh debido comunicar
 ### Contactame
 <a href="https://www.linkedin.com/in/federico-omar-farfan-32b314245"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:federicoofarfan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Federico) 
