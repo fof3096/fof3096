@@ -1,5 +1,5 @@
 ### Sobre mi
-Mi nombre es Federico Omar Farfan, vivo en Jujuy, Argentina y soy un desarrollador web orientado al Frontend, puedo crear aplicaciones web para el comercio en linea, venta de productos y búsqueda de información utilizando tecnologías como React, Vite, JavaScript, TypeScript, HTML, CSS y ayudándome con herramientas como Figma, Git, GitHub y el IDE Visual Studio Code.
+Mi nombre es Federico Omar Farfan, vivo en Jujuy, Argentina y soy un desarrollador web orientado al Frontend, puedo crear aplicaciones web para el comercio en linea, venta de productos y búsqueda de información utilizando tecnologías como React, Vite, JavaScript, TypeScript, HTML, CSS y ayudándome con herramientas como Figma, Git, GitHub y Visual Studio Code.
 
 Ademas, tengo experiencia participando en proyectos en donde eh debido comunicar mis avances y próximas tareas en reuniones diarias a traves Google Meet, Discord entre otras según las necesidades del equipo. En cuanto a herramientas para una organización eficiente, tengo experiencia utilizando Trello, Jira y GitHub Projects.
 
